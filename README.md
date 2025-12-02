@@ -50,9 +50,7 @@ The dashboard includes:
 ---
 
 ## 📂 Project Files
-- `Student_Performance_Analysis.xlsx` – Main dashboard file from kaggle 
-- `Dashboard_Screenshot.png` – Dashboard image  
-- `README.md` – Documentation  
+student_performance_analysis.csv
 
 ---
 
