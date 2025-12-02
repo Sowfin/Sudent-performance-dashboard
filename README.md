@@ -64,7 +64,7 @@ The dashboard includes:
 
 ---
 
-## 📸 Dashboard Preview
+### 📸 Dashboard Preview
 <img width="1851" height="612" alt="image" src="https://github.com/user-attachments/assets/b2da1b2c-efca-4c20-bfb7-058662467e32" />
  
 # Sudent-performance-dashboard
